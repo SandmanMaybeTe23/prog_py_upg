@@ -7,6 +7,5 @@ for i in tuple:
     print(i)
     tuple_to_list.append(i)
 
-
 print(list==tuple_to_list)
     
